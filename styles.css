@@ -17,6 +17,12 @@ body{
     font-family: 'Kumbh Sans', sans-serif; 
     font-size: 18px;
 }
+
+.direccion{
+    text-decoration: none;
+    color: #fff;
+}
+
 .container{
     margin: 100px auto 50px;
     padding-top: 20px;
